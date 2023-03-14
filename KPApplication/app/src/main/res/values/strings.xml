@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">KPApplication</string>
+    <string-array name="Sex">
+        <item>Выберите пол</item>
+        <item>Мужской</item>
+        <item>Женский</item>
+    </string-array>
+    <string-array name="TypeFormula">
+        <item>Выберите Формулу</item>
+        <item>формула Харриса-Бенедикта</item>
+        <item>формула МИФФЛИН-САН ЖЕОРА</item>
+    </string-array>
+    <string-array name="Activity">
+        <item>Выберите коэффициент Активности</item>
+        <item>1,2 - минимум или отсутствие физической нагрузки (сидячей образ жизни)</item>
+        <item>1.375 – небольшая активность (тренировки 1-3 раза в неделю)</item>
+        <item>1.5 – средняя активность (тренировки 4-5 раз в неделю)</item>
+        <item>1.725 - высокая активность (каждый день интенсивные тренировки или по два раза в день)</item>
+    </string-array>
+</resources>
